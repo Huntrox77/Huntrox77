@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Huntrox77
+- 👋 Hi, I’m @Huntrox77 (Huntress)
 - 👀 I’m interested in coding games
 - 🌱 I’m currently learning how to code and make stuff in godot
 - 📫 How to reach me: Hjones12074@gmail.com
-- 😄 Pronouns: She/Him
-- ⚡ Fun fact: I have zwei cats and can speak a bit of deutsch!
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have two cats and can speak a little german!
 - Ich habe zwei katze und kann kleine deutsch sprechen!
 
 <!---
