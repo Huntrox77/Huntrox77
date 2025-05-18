@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Huntrox77 (Huntress)
-- 👀 I’m interested in coding games
-- 🌱 I’m currently learning how to code and make stuff in godot
-- 📫 How to reach me: Hjones12074@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have two cats and can speak a little german!
-- Ich habe zwei katze und kann kleine deutsch sprechen!
+Hiya!, I’m Huntress.
+I'm a transfem student who is working on software engineering and game design.
+
+I like to work on projects such as:
+- Modding Rain World
+  - Check that out here! https://steamcommunity.com/id/huntrox77/myworkshopfiles/?appid=312520
+- Modding Celeste
+  - You can also check that out here! https://gamebanana.com/members/2632460
+- Making Games
+  - Once again, you can check that out here: https://huntrox77.itch.io/ 
 
 <!---
 Huntrox77/Huntrox77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
