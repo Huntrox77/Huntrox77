@@ -1,5 +1,5 @@
-Hiya!, I’m Huntress.
-I'm a transfem student who is working on software engineering and game design.
+Hiya!, I’m Huntress,
+I am a transfem student who is working on software engineering and game design.
 
 I like to work on projects such as:
 - Modding Rain World
